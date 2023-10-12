@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring web developer who brings thoughts and emotions to life😄</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayankAd" alt="mayankAd" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://adityagusain.netlify.app/](https://mayankad.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://mayankad.github.io/My-Portfolio/](https://mayankad.github.io/My-Portfolio/)
 
 - - 📫 How to reach me **mayankadhikari2001@gmail.com**
  
