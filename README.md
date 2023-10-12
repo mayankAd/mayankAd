@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I am Mayank Adhikari</h2>
 
--<h3>An aspiring web developer who brings thoughts and emotions to life😄</h3>
+<h3>An aspiring web developer who brings thoughts and emotions to life😄</h3>
 
 
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mayankadhikari2001@gmail.com**
 
-- <h2>Lets connect🫡</h2>
+<h2>Lets connect🫡</h2>
  
   - <a href="https://linkedin.com/in/mayankadhikari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayankadhikari" height="30" width="40" /></a>
 
